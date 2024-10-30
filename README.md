@@ -16,6 +16,11 @@ e ao clicar em cada um, é possível obter informações sobre os filmes em que 
 - **Interatividade ao Clicar:** Ao clicar em um dos Homens-Aranha, um evento JavaScript é disparado para exibir informações detalhadas sobre os filmes em que o personagem aparece. Isso pode ser feito através de modais ou atualizando uma seção específica da página.
 - **Efeitos de Mouseover:** Utilizando eventos JavaScript mouseover e mouseout, quando o usuário passa o mouse sobre um Homem-Aranha, o fundo da página muda para refletir o estilo do personagem selecionado, enquanto os outros Homens-Aranha ficam desbotados para destacar o foco.
 
+## Demonstração:
+![Sem título](https://github.com/user-attachments/assets/8e992cb0-6507-4bff-976b-e6757151d7d8)
+![Captura de tela 2024-10-30 155315](https://github.com/user-attachments/assets/4ef9ae35-17c0-439f-8f29-74bbd69d4bf2)
+![2024-10-30](https://github.com/user-attachments/assets/c86183ea-775e-44cf-b54e-5ef55701ab5f)
+
 
 ## Créditos:
 Este jogo foi desenvolvido como parte de um projeto educacional da Digital Innovation One.
